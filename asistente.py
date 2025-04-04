@@ -13,7 +13,7 @@ import unicodedata
 
 
 #clave de openai
-openai.api_key = os.getenv('OPENAI_API_sk-proj-cefi97Dxo7G5nJwpDyZHVat2Q-ggTImpqo0bNU0Bifw0W3sUMWFJQBocpr4QyxNXZpnWu5jiYLT3BlbkFJhyhCSiJCwB8WK3jXa0tc0dN-1vB1KKdXGZSTdl6Pt8-JCZ3wwCnzP747B9izMwEUzCY-gJeX4A')
+openai.api_key = os.getenv('')
 
 
 #escuchar y devolver un texto
